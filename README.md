@@ -20,7 +20,7 @@
 5. Ask for first name and last name ->
 6. Ask for avatar ->
 7. Ask for password ->
-8. Start to import connections via Social accounts: Google, Facebook and LinkedIn, if they skip, switch to Phone contacts page (step 11) ->
+8. Start to import connections via Social accounts: Google, Facebook and LinkedIn, if they skip, switch to Phone contacts page (step 12) ->
 9. If they choose any of these, ask for permission via OAuth and get their friends info ->
 10. Store these information in the backend database and send out invitation emails via customer.io ->
 11. Show “notify you once account is ready”, if they click “send invitation”, direct them to Import social connections page (step 9)
